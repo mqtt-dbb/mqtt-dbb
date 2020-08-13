@@ -1,0 +1,1 @@
+java -cp classes;lib\*;..\jmqtt-master\lib\*;paho.mqtt.java-master\org.eclipse.paho.client.mqttv3\src\main\resources test.MqttClient %*
